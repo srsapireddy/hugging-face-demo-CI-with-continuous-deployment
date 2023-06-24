@@ -11,5 +11,6 @@ license: cc
 ---
 
 App Link: https://huggingface.co/spaces/SrinivasRahul/demo
+Status Badge: [![Sync to Hugging Face hub](https://github.com/srsapireddy/hugging-face-demo/actions/workflows/main.yml/badge.svg)](https://github.com/srsapireddy/hugging-face-demo/actions/workflows/main.yml)
 
 

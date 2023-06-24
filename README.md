@@ -1,1 +1,2 @@
-# hugging-face-demo
+title: hugging-face-demo
+

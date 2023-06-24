@@ -10,3 +10,6 @@ pinned: false
 license: cc
 ---
 
+App Link: https://huggingface.co/spaces/SrinivasRahul/demo
+
+

@@ -1,6 +1,6 @@
 from transformers import pipeline
 import gradio as gr
-
+# test
 model = pipeline("summarization")
 
 def predict(prompt):
